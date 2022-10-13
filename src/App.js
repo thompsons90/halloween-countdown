@@ -2,6 +2,7 @@ import React, { useEffect, useRef, useState } from "react";
 import "./index.css";
 import { Tammy } from "./events/Tammy";
 import { Halloween } from "./events/Halloween";
+import Jack from "./utils/halloweenIcon.png";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <div>
         <Tammy />
       </div>
+
     </div>
   );
 }

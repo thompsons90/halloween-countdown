@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/halloween-countdown/static/css/main.61f87a3a.css",
+    "main.js": "/halloween-countdown/static/js/main.b9b19e13.js",
+    "static/media/spookyBorder.png": "/halloween-countdown/static/media/spookyBorder.c2f66d1c6bc56f8f8332.png",
+    "index.html": "/halloween-countdown/index.html",
+    "main.61f87a3a.css.map": "/halloween-countdown/static/css/main.61f87a3a.css.map",
+    "main.b9b19e13.js.map": "/halloween-countdown/static/js/main.b9b19e13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61f87a3a.css",
+    "static/js/main.b9b19e13.js"
+  ]
+}
